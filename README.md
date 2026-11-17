@@ -5,7 +5,7 @@ I'm a **BSc Computer Science** student at **Stellenbosch University** (Western C
 - 🔭 **Currently building:** A high-throughput URL shortener with **FastAPI, PostgreSQL, Redis, and Docker** to benchmark cache-aside latency and rate limiting.
 - ⚡ **Recent release:** [`fast-autocomplete-api`](https://github.com/CharlesFortuin/fast-autocomplete-api) — an $O(L)$ suffix-cached Trie & Levenshtein spell-check engine achieving **~3.7 ms** API latency.
 - 🧠 **Practicing:** Data Structures & Algorithms in Python for Software Development Engineering (SDE) internships.
-- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/charles-fortuin)
+- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/charles-a-fortuin)
 
 ---
 
